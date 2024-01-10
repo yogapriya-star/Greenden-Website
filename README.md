@@ -32,8 +32,8 @@ This Greenden website is created by using HTML and Tailwind-CSS.
 
 ## Project Requirements:
 
-- HTML structure for Udemy content
-- CSS styling for layout and design
+- HTML structure for Greenden content
+- Tailwind-CSS styling for layout and design
 
 ## Contributing
 Contributions are welcome! Please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
